@@ -25,3 +25,5 @@ Code Runner
 npm intellisense
 
 Debugger for firefox
+
+Toggle quotes
